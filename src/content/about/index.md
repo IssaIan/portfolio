@@ -1,24 +1,22 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: 'me.jpg'
 skills:
-  - Ruby
   - HTML & (S)CSS
-  - Ruby on Rails
-  - Vue JS
-  - Go
+  - Python Django
+  - Python Flask
+  - React Native
   - React JS
   - GraphQL
 ---
 
-Hello! I'm Ruto Collins. Here they call me Kaka, a Swahili word I love. I'm a Software Engineer based in Nairobi, Kenya who enjoys solving problems through code. I design, develop and deploy backend services (APIs) with focus on high availability, low latency and scalability. I also occassionally write client-facing code that consume web services.
+Hello! I'm Issa Ian Mwangi Maina. I'm a Software Engineer based in Nairobi, Kenya, who enjoys solving problems through code. Apart from coding, I enjoy watching and playing soccer in my free time.
 
-My coding life story starts during my sophomore year in college, after we had a
-Computer Science lecturer take us through what was very new to us, C and C++ programming. To cut the long story
-short, I quit school later that year to join a fast growing African tech
+I design, develop and deploy backend services (APIs) with focus on high availability, low latency and scalability. I also write client-facing code that consume web services.
+
+My strongest professional areas include effective communication between my teammates, and stakeholders. I seamlessly interface with UX designers, our PM and other stakeholders to ensure thoughtful and coherent user experiences. I also give reliable and kind feedback and I'm always open to receiving feedback. I am always ready to help unblock my teammates whenever they are faced with blockers. I also do not shy away from asking for help whenever I am stuck.
+
+Immediately after completing my Bachelor's Degree, I joined a fast growing African tech
 startup, [Andela](https://andela.com) as a software engineer!
-
-In case you're wondering how a Biomedical Engineering student ended up in
-Software Engineering, this is for you! [My Journey into Andela](https://medium.com/the-andela-way/2017-in-review-finally-going-somewhere-4ddfaff0b95d)
 
 Here's a few technologies I've been working with recently:

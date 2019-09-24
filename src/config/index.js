@@ -1,38 +1,37 @@
 module.exports = {
-  siteTitle: 'Kaka Ruto | Software Engineer',
+  siteTitle: 'Issa Maina | Software Engineer',
   siteDescription:
-    'Collins Ruto is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available APIs in Ruby, Go and GraphQL.',
-  siteKeywords:
-    'Collins Ruto, Kaka Ruto, borenho, software engineer, software developer, backend engineer, ruby developer, Golang',
-  siteUrl: 'https://collinsruto.com',
+    'Issa Maina is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available APIs in Python Flask, Python Django and GraphQL.',
+  siteKeywords: 'Issa Maina, Issa, software engineer, software developer, fullstack engineer',
+  siteUrl: 'https://issamwangi.com',
   siteLanguage: 'en_US',
 
   googleVerification: 'CHkeh5av_lDWs6zzQ8TpB4KDyQcmm7xxI4CYUKRGaM0',
 
-  name: 'Collins Ruto',
+  name: 'Issa Mwangi',
   location: 'Nairobi, Kenya',
-  email: 'borecollins@gmail.com',
-  github: 'https://github.com/borenho/',
+  email: 'issamwangi@gmail.com',
+  github: 'https://github.com/IssaIan/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/borenho/',
+      url: 'https://github.com/IssaIan/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/rutocollins/',
+      url: 'https://www.linkedin.com/in/issa-mwangi-784ba5103/',
     },
     {
       name: 'Stackoverflow',
-      url: 'https://stackoverflow.com/users/6488361/ruto-collins',
+      url: 'https://stackoverflow.com/users/10909486/issa-mwangi',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/kaka_ruto_/',
+      url: 'https://www.instagram.com/issa_the_only/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/kaka_ruto',
+      url: 'https://twitter.com/IssatheOnly1',
     },
   ],
 
@@ -55,7 +54,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@kaka_ruto',
+  twitterHandle: '@IssatheOnly1',
   googleAnalyticsID: 'UA-142576526-1',
   googleTagManagerID: 'GTM-K44TV88',
 

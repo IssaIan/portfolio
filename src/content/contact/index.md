@@ -2,10 +2,12 @@
 title: 'Get In Touch'
 ---
 
-I am currently open to new opportunities. I am more tilted towards backend
-engineering(designing and implementing APIs).
+I am currently open to new opportunities. I work on backend
+engineering(designing and implementing APIs) and consume this APIs
+on the front-end with React js. I occasionally use React-Native for
+mobile apps development too.
 
-Preferred tech: Ruby, Ruby on Rails, Golang, GraphQL
+Preferred tech: Python Flask, Python Django, GraphQL, React js.
 
 I am also open to relocate.
 

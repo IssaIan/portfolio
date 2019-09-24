@@ -1,8 +1,8 @@
 ---
-date: '2019-06-25'
+date: '2019-09-23'
 title: 'Portfolio'
 image: ''
-github: 'https://github.com/borenho/portfolio'
+github: 'https://github.com/IssaIan/portfolio'
 external: ''
 tech:
   - Gatsby

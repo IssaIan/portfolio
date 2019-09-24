@@ -1,16 +1,15 @@
 ---
 date: '2017-10-25'
-title: 'React Bucketlist API'
+title: 'Questioner'
 image: ''
-github: 'https://github.com/borenho/react-bucketlist-api'
+github: 'https://github.com/IssaIan/Questioner-react'
 external: ''
 tech:
   - React JS
   - React Router
   - Webpack
-  - Material UI
-  - Jest tests
+  - Bootstrap
 show: 'true'
 ---
 
-A React JS front-end application that consumes the [Bucketlist](https://github.com/borenho/flask-bucketlist-api) Python Flask RESTful API
+A React JS front-end application that consumes the [Questioner](https://github.com/Ogutu-Brian/questioners) Python Django RESTful API
