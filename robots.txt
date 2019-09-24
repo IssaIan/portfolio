@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://collinsruto.com/sitemap.xml
-Host: https://collinsruto.com
+Sitemap: https://issamwangi.com/sitemap.xml
+Host: https://issamwangi.com
